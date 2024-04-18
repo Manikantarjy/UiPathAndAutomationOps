@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.2.1.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.2",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -50,6 +50,13 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TC01.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "79fcc7b5-466f-451d-95b4-1698ca9bcf3c",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "MyTest\\TC02.xaml"
       }
     ],
     "saveToCloud": false
